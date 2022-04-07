@@ -1,0 +1,14 @@
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\bin\Debug\WpfUI.dll
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\bin\Debug\WpfUI.pdb
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.csprojAssemblyReference.cache
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\UserControl1.g.cs
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI_MarkupCompile.cache
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI_MarkupCompile.lref
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\UserControl1.baml
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.g.resources
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.Properties.Resources.resources
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.csproj.GenerateResource.cache
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.csproj.CoreCompileInputs.cache
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.csproj.CopyComplete
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.dll
+C:\Users\DeeDiim\source\repos\NativeCppMath\WpfUI\obj\Debug\WpfUI.pdb

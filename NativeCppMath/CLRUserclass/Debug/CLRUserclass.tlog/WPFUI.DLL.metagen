@@ -1,0 +1,35 @@
+  WpfUI.g.resources - Embedded, ContainedInManifestFile, 
+  WpfUI.Properties.Resources.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly WpfUI, Version=1.0.*, Culture=고정 언어(고정 국가): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly CLRWapper, Version=1.0.*, Culture=고정 언어(고정 국가): 
+	hash=None, flags=None
+Class WpfUI.UserControl1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Window
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.Windows.Markup.IComponentConnector
+  Events:
+    DelegateNotify SendDel: 
+  Methods:
+    add_SendDel(DelegateNotify): PrivateScope, Public, HideBySig, SpecialName
+    remove_SendDel(DelegateNotify): PrivateScope, Public, HideBySig, SpecialName
+    InitializeComponent(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Class WpfUI.UserControl1+DelegateNotify: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask

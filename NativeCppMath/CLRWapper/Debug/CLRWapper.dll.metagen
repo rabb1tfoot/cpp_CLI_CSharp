@@ -1,0 +1,25 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CLRWapper, Version=1.0.*, Culture=고정 언어(고정 국가): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CLRWapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Changevalue(Int32, Int32): PrivateScope, Public, HideBySig
+    Getvalue(Int32): PrivateScope, Public, HideBySig
+    GetName(): PrivateScope, Public, HideBySig
+    SetName(String): PrivateScope, Public, HideBySig
+    SetArr(Int32*, Int32): PrivateScope, Public, HideBySig
+    GetArr(Int32*): PrivateScope, Public, HideBySig
+    SetByteArr(Byte*, Int32): PrivateScope, Public, HideBySig
+    GetByteArr(Byte*): PrivateScope, Public, HideBySig
+    GetInstance(): PrivateScope, Public, Static, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

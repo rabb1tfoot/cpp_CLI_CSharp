@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfUI.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Closed="Window_Closed">
+    <Grid>
+        <Label x:Name="LBName" Content="홍길동" HorizontalAlignment="Left" Margin="38,218,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LBvalue" Content="value" HorizontalAlignment="Left" Margin="38,302,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnName" Content="Set" HorizontalAlignment="Left" Margin="293,222,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.896,-1.067" Click="BtnName_Click"/>
+        <Button x:Name="BtnArr" Content="Set" HorizontalAlignment="Left" Margin="293,305,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.543,0.849" Click="BtnArr_Click"/>
+        <TextBox x:Name="TboxName" HorizontalAlignment="Left" Height="23" Margin="128,223,0,0" TextWrapping="Wrap" Text="홍길동" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TBoxIdx" HorizontalAlignment="Left" Height="23" Margin="128,302,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="59"/>
+        <TextBox x:Name="TBoxValue" HorizontalAlignment="Left" Height="23" Margin="210,302,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="62"/>
+        <Label Content="idx" HorizontalAlignment="Left" Margin="136,279,0,0" VerticalAlignment="Top"/>
+        <Label Content="value" HorizontalAlignment="Left" Margin="210,279,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnArrPrint" Content="Print" HorizontalAlignment="Left" Margin="293,330,0,0" VerticalAlignment="Top" Width="75" Click="BtnArrPrint_Click"/>
+        <Button x:Name="btnNamePrint" Content="Print" HorizontalAlignment="Left" Margin="293,247,0,0" VerticalAlignment="Top" Width="75" Click="BtnNamePrint_Click"/>
+        <Button x:Name="BtnArrSet" Content="Set" HorizontalAlignment="Left" Margin="596,223,0,0" VerticalAlignment="Top" Width="75" Click="BtnArrSet_Click"/>
+        <Button x:Name="BtnArrPrint1" Content="Print" HorizontalAlignment="Left" Margin="596,247,0,0" VerticalAlignment="Top" Width="75" Click="BtnArrPrint1_Click"/>
+        <TextBox x:Name="TboxArr" HorizontalAlignment="Left" Height="23" Margin="471,223,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="LBArr" Content="Arr" HorizontalAlignment="Left" Margin="427,222,0,0" VerticalAlignment="Top"/>
+        <Label Content="Byte" HorizontalAlignment="Left" Margin="430,305,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TboxBArr" HorizontalAlignment="Left" Height="23" Margin="471,311,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnByteSet" Content="Set" HorizontalAlignment="Left" Margin="602,311,0,0" VerticalAlignment="Top" Width="75" Click="BtnByteSet_Click"/>
+        <Button x:Name="BtnBytePrint" Content="Print" HorizontalAlignment="Left" Margin="602,342,0,0" VerticalAlignment="Top" Width="75" Click="BtnBytePrint_Click"/>
+
+    </Grid>
+</Window>

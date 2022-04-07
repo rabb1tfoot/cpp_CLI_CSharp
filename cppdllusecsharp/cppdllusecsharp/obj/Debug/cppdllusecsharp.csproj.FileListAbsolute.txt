@@ -1,0 +1,9 @@
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\obj\Debug\cppdllusecsharp.csprojAssemblyReference.cache
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\obj\Debug\cppdllusecsharp.csproj.CoreCompileInputs.cache
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\bin\Debug\cppdllusecsharp.exe.config
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\bin\Debug\cppdllusecsharp.exe
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\bin\Debug\cppdllusecsharp.pdb
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\bin\Debug\ClassLib.pdb
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\obj\Debug\cppdllusecsharp.csproj.CopyComplete
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\obj\Debug\cppdllusecsharp.exe
+C:\Users\DeeDiim\source\repos\cppdllusecsharp\cppdllusecsharp\obj\Debug\cppdllusecsharp.pdb
